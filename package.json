@@ -1,0 +1,32 @@
+{
+  "name": "express-mongoose",
+  "version": "1.0.0",
+  "description": "node-express-mongodb practice with mongoose",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliagronau/node-express-mongoose-practice.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliagronau/node-express-mongoose-practice/issues"
+  },
+  "homepage": "https://github.com/juliagronau/node-express-mongoose-practice#readme"
+}
